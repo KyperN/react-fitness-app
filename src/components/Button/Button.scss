@@ -1,0 +1,14 @@
+button {
+  padding: 15px 25px;
+  color: gold;
+  background: rgb(39, 38, 38);
+  font-size: 17px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  transition-duration: 0.5s;
+  margin-left: 55px;
+  &:hover {
+    background: rgb(59, 58, 58);
+  }
+}

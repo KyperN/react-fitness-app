@@ -1,0 +1,20 @@
+.form-title {
+  color: gold;
+  font-weight: bold;
+  font-size: 22px;
+  text-align: center;
+  margin-top: 50px;
+
+  form {
+    margin-top: 40px;
+    select {
+      padding: 5px 5px;
+      font-size: 18px;
+      text-align: center;
+      border-radius: 10%;
+      background: transparent;
+      color: gold;
+      font-weight: bold;
+    }
+  }
+}

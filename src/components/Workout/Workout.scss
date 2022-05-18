@@ -1,0 +1,21 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  max-width: 100%;
+  button {
+    margin-left: 120px;
+  }
+  .message {
+    color: gold;
+    font-size: 19px;
+    text-align: center;
+    margin-top: 50px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+  }
+  .content-excercise {
+    margin-left: 25px;
+    width: 100%;
+  }
+}

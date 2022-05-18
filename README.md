@@ -1,3 +1,7 @@
+*Is not fully completed*
+
+PLEASE USE YOUR OWN API_KEY
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
